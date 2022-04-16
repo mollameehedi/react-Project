@@ -1,0 +1,101 @@
+{
+  "Header": {
+    "title": "Welcome to Sharp Bunnies!",
+    "heading0": "🐰 | 🥚",
+    "heading1": "Exclusive community of 9999 Sharp Bunnies",
+    "heading2": "Raffle || Play to Earn ($LUCK)",
+    "heading3": "Everyone is a Winner!",
+    "heading4": "Join now and make a real difference.",
+    "heading5": "🐰 | 🥚"
+  },
+  "Gallery": [
+    {
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Journey": [
+    {
+      "img": "img/journey/9.jpg",
+      "title": "Everyone is a Winner!",
+      "text": "Get a Lucky Egg with every Sharp Bunny!"
+    },
+    {
+      "img": "img/journey/7.jpg",
+      "title": "Play 2 Earn",
+      "text": "Exciting Play 2 Earn games and Olympics like events. New releases planned every four months!"
+    },
+    {
+      "img": "img/journey/8.jpg",
+      "title": "Raffle",
+      "text": "40 token holers  stand a chance to win ETH (or equivalent USD) for every 100 tokens minted!"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Umesh",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Harshad",
+      "job": "Dreamer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Karishma",
+      "job": "Developer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Fatima",
+      "job": "Desginer"
+    }
+  ],
+  "Contact": [
+  {
+    "name": "",
+    "img": "img/logos/twitter.png",
+    "website": "https://twitter.com/sharpbunnies"
+  },
+  {
+    "name": "",
+    "img": "img/logos/discord.png",
+    "website": "https://discord.gg/BShje69XHm"
+  },
+  {
+    "name": "",
+    "img": "img/logos/etherscan.png",
+    "website": "https://etherscan.io/"
+  },
+  {
+    "name": "",
+    "img": "img/logos/opensea.png",
+    "website": "https://opensea.io/"
+  }
+  ]
+}
